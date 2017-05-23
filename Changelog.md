@@ -1,9 +1,29 @@
 # Changelog
 
 ## Table of Contents
-
-1.  [2.11 - 2017-05-12](#v2_11)
-2.  [2.10 - 2017-04-25](#v2_10)
+- [2.11](#v2_11)
+- [2.10](#v2_10)
+- [2.9](#v2_9)
+- [2.8](#v2_8)
+- [2.7](#v2_7)
+- [2.6](#v2_6)
+- [2.5](#v2_5)
+- [2.4](#v2_4)
+- [2.3](#v2_3)
+- [2.2](#v2_2)
+- [2.1](#v2_1)
+- [2.0](#v2_0)
+- [1.10](#1_10)
+- [1.9](#1_9)
+- [1.8](#1_8)
+- [1.7](#1_7)
+- [1.6](#1_6)
+- [1.5](#1_5)
+- [1.4](#1_4)
+- [1.3](#1_3)
+- [1.2](#1_2)
+- [1.1](#1_1)
+- [1.0](#1_0)
 
 ## 2.11 - 2017-05-12 <a name="v2_11"></a>
 - Added dynamic student listings to test event analytics
@@ -25,7 +45,7 @@
 - Initial push for new test event analytics report
 - New global login feature (still in alpha mode)
 
-## 2.9 - 2017-02-28
+## 2.9 - 2017-02-28 <a name="v2_9"></a>
 - Added async intervention re-calculation for improved UX
 - Improved intervention calculation algorithm to add more weight to trends
 - Improved test-taking login UX
@@ -33,7 +53,7 @@
 - Improved test events UI with support for student search
 - Improved error handling for widgets in data dashboard
 
-## 2.8 - 2017-02-07
+## 2.8 - 2017-02-07 <a name="v2_8"></a>
 - Added test booklets, answer keys, and bubble sheets to testing engine
 - Added copy/create-from functionality to blueprints, templates, interventions
 - Added RTI glossary of terms
@@ -43,7 +63,7 @@
 - Added new intervention form entity
 - Added pause/resume test event functionality
 
-## 2.7 - 2017-01-12
+## 2.7 - 2017-01-12 <a name="v2_7"></a>
 - Added filter by progress/effectiveness in RTI dashboards
 - Improved formatting of calculation, date, and other form fields
 - Added new Student form field
@@ -55,14 +75,14 @@
 - Improved validation UX for item/test editor
 - Improved rules for deleting items/tests/events
 
-## 2.6 - 2016-11-11
+## 2.6 - 2016-11-11 <a name="v2_6"></a>
 - New forms management tool
 - Added a new "Tools" nav-bar menu
 - Improved "Test Results" UI
 - Added ordinal positions to custom assessment trials
 - Optimized loading of async app filter in js code
 
-## 2.5 - 2016-10-19
+## 2.5 - 2016-10-19 <a name="v2_5"></a>
 - Added classroom alerts into the Flipped Data pipeline
 - Added Notes to custom assessment trials
 - Added tracking beacon / campaigns to Flipped Data emails
@@ -70,7 +90,7 @@
 - Added transactional email api
 - Improved student image pipeline
 
-## 2.4 - 2016-09-09
+## 2.4 - 2016-09-09 <a name="v2_4"></a>
 - Added fixed-to-top nav-bar
 - Added highest, lowest, first, last columns to test results
 - Improved test events UI
@@ -82,14 +102,14 @@
 - Enhancements to item bank filters
 - New classroom alerts
 
-## 2.3 - 2016-06-29
+## 2.3 - 2016-06-29 <a name="v2_3"></a>
 - Custom MTDA cell sizes
 - Added "pausing" to live testing interface
 - Added "impersonate user" option for system admins
 - Next-gen app filter with multi-selects and async student queries
 - Next-gen EdFabric Data Points
 
-## 2.2 - 2016-05-06
+## 2.2 - 2016-05-06 <a name="v2_2"></a>
 - Optimized item bank search
 - Added Trial Description to Custom Assessment Widgets and Tables
 - Removed icons from menus and other UI elements
@@ -97,7 +117,7 @@
 - Enhancements to Live Testing UI
 - Added Depth of Knowledge to Test Blueprints
 
-## 2.1 - 2016-03-25
+## 2.1 - 2016-03-25 <a name="v2_1"></a>
 - Default Post on student logs
 - Student log Q/A
 - Refactoring of attendance ingestion data
@@ -111,7 +131,7 @@
 - Improved login workflow
 - Improved UserType / UserGroup management
 
-## 2.0 - 2016-03-12
+## 2.0 - 2016-03-12 <a name="v2_0"></a>
 - Refactor of data access connection strings for the EDIS API
 - Add graduation credits summary for middle school students
 - New log feature with social entities API
@@ -134,7 +154,7 @@
 - Improved QTI Items Importer
 - Upgrade Font Awesome Icons
 
-## 1.10 - 2016-01-28
+## 1.10 - 2016-01-28 <a name="v1_10"></a>
 - Add KPIs to student profile section
 - Customization of intervention sections to support added security, printing, and family access
 - Project added for QTI item ingestion
@@ -150,7 +170,7 @@
 - Added lexile scores to NWEA MAP Results
 - New notification settings for Flipped Data added to user settings
 
-## 1.9 - 2015-11-12
+## 1.9 - 2015-11-12 <a name="v1_9"></a>
 - Added support for factor in RTI PM Charts and Tables
 - Added factor support for defining when a score meets target
 - Add support for factor in MTDA
@@ -186,7 +206,7 @@
 - Dev API branding improvements
 - Added ability to export VAM season rosters to Excel
  
-## 1.8 - 2015-09-04
+## 1.8 - 2015-09-04 <a name="v1_8"></a>
 - Improved logic to deploy KPIs and alerts into clients
 - Addded support for multiple areas of concern in RTI
 - Owin-based Sso logic separated into standalone project
@@ -238,7 +258,7 @@
 - Added new KPIs widgets
 - Add exporting capabilities to KPI report
  
-## 1.7 - 2015-05-08
+## 1.7 - 2015-05-08 <a name="v1_7"></a>
 - Added support for USATestPrep scores.
 - New structure to represent information within student profile.
 - Added support for graduation credits summary within student profile.
@@ -268,7 +288,7 @@
 - Tree selector for educational standards.
 - Pretty urls for EDIS sites
  
-## 1.6 - 2015-03-06
+## 1.6 - 2015-03-06 <a name="v1_6"></a>
 - User interface received a major redesign.
 - We now allow for creating multiple individual interventions at once.
 - Much more widgets in data dashboard
@@ -321,7 +341,7 @@
 - Improved design for intervention details.
 - Listings of students have been re-redesigned
  
-## 1.5 - 2014-10-16
+## 1.5 - 2014-10-16 <a name="v1_5"></a>
 - Embeddded Google Analytics
 - New Fountas & Pinell report
 - New Pals2 report
@@ -443,7 +463,7 @@
 - Comparison card in intervention creation
 - New landing page for creating interventions
 
-## 1.4 - 2014-01-10
+## 1.4 - 2014-01-10 <a name="v1_4"></a>
 - Ability to provide hints to specific help sections inside the software
 - Ability to add/remove students from interventions
 - Ability to add/remove progress monitoring dates for interventions
@@ -458,7 +478,7 @@
 - Supplemental student information in RTI Progress Monitoring
 - New Intervention Effectiveness Measure
 
-## 1.3 - 2013-12-30
+## 1.3 - 2013-12-30 <a name="v1_3"></a>
 - Executive Reports
 - Enrollment/Withdrawn Reports
 - New Enrollment Withdrawn section in Student Profile
@@ -474,7 +494,7 @@
 - Rounded Faces for Student Images
 - Student V-Cards
 
-## 1.2 - 2013-11-14
+## 1.2 - 2013-11-14 <a name="v1_2"></a>
 - WSAS Reports
 - STAR Reports
 - iReady Reports
@@ -494,7 +514,7 @@
 - Advanced Filter Grouping and Color Coding
 - Improved Assessment Selection for RTI allows to pull from non-custom assessments
 
-## 1.1 - 2013-10-15
+## 1.1 - 2013-10-15 <a name="v1_1"></a>
 - Notification Center available to all users
 - Ability to search for students, interventions, reports, and assessments
 - Ability to lock and unlock assessment trials
@@ -503,5 +523,5 @@
 - New college and career section in student profile
 - New Interventions section in Student Profile
 
-## 1.0 - 2013-08-30
+## 1.0 - 2013-08-30 <a name="v1_0"></a>
 - Initial release of EDIS
