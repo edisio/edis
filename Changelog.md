@@ -1,5 +1,7 @@
 # Changelog
 
+Contains a summary of all new EDIS features, upgrades, and bug fixes by version.
+
 |Version|Release Date|
 |---|---|
 |[2.11](#v2_11)|2017-05-12|
