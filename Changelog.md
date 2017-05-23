@@ -1,5 +1,25 @@
 # Changelog
 
+## 2.11 - 2017-05-12
+- Added dynamic student listings to test event analytics
+- Added intervention status/effectivess to custom reports
+- Included dependencies logic when editting custom assessments
+- Added "About" tab to test event UI
+- Added new "Publish" feature to calculate test event analytics
+- Improved design of Standards-Based Results Analytics
+- Improved test response processing workflow in backend
+- Improved layout of "Assessments" nav-bar menu
+- Added warning to notify users of new scores availble after publishing test events
+- Upgraded to Font Awesome 4.7
+
+## 2.10 - 2017-04-25
+- Added initial push for intergration between forms and data warehouse
+- Initial push for standards-based report analytics
+- Initial push for percentage calculations in forms
+- Improved design of graduation report to embed early warning codes
+- Initial push for new test event analytics report
+- New global login feature (still in alpha mode)
+
 ## 2.9 - 2017-02-28
 - Added async intervention re-calculation for improved UX
 - Improved intervention calculation algorithm to add more weight to trends
