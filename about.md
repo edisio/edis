@@ -1,4 +1,4 @@
-# About Edis
+# About EDIS
 
 EDIS is a multi-modular K12 software platform where educators, administrators, and families collaborate and use the power of data to help students succeed.
 
