@@ -1,6 +1,11 @@
 # Changelog
 
-## 2.11 - 2017-05-12
+## Table of Contents
+
+1.  [2.11 - 2017-05-12](#v2_11)
+2.  [2.10 - 2017-04-25](#v2_10)
+
+## 2.11 - 2017-05-12 <a name="v2_11"></a>
 - Added dynamic student listings to test event analytics
 - Added intervention status/effectivess to custom reports
 - Included dependencies logic when editting custom assessments
@@ -12,7 +17,7 @@
 - Added warning to notify users of new scores availble after publishing test events
 - Upgraded to Font Awesome 4.7
 
-## 2.10 - 2017-04-25
+## 2.10 - 2017-04-25 <a name="v2_10"></a>
 - Added initial push for intergration between forms and data warehouse
 - Initial push for standards-based report analytics
 - Initial push for percentage calculations in forms
