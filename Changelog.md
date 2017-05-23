@@ -1,5 +1,77 @@
 # Changelog
 
+## 2.9 - 2017-02-28
+- Added async intervention re-calculation for improved UX
+- Improved intervention calculation algorithm to add more weight to trends
+- Improved test-taking login UX
+- Added better browser accident recovery handling when test-taking
+- Improved test events UI with support for student search
+- Improved error handling for widgets in data dashboard
+
+## 2.8 - 2017-02-07
+- Added test booklets, answer keys, and bubble sheets to testing engine
+- Added copy/create-from functionality to blueprints, templates, interventions
+- Added RTI glossary of terms
+- Improved UX for listings of RTI entities
+- Added new layout for detailed views of RTI entities
+- Added new RTI chart
+- Added new intervention form entity
+- Added pause/resume test event functionality
+
+## 2.7 - 2017-01-12
+- Added filter by progress/effectiveness in RTI dashboards
+- Improved formatting of calculation, date, and other form fields
+- Added new Student form field
+- Initial push for RTI V2 with support for blueprints, templates, and interventions
+- Initial push for new Content API to house intervention blueprints
+- Improved design for WYSIWYG editor in item bank
+- Improved test item copying with support for copy everything vs copy info
+- Added new read-only and signature fields to forms
+- Improved validation UX for item/test editor
+- Improved rules for deleting items/tests/events
+
+## 2.6 - 2016-11-11
+- New forms management tool
+- Added a new "Tools" nav-bar menu
+- Improved "Test Results" UI
+- Added ordinal positions to custom assessment trials
+- Optimized loading of async app filter in js code
+
+## 2.5 - 2016-10-19
+- Added classroom alerts into the Flipped Data pipeline
+- Added Notes to custom assessment trials
+- Added tracking beacon / campaigns to Flipped Data emails
+- Improved SFTP csv connectors
+- Added transactional email api
+- Improved student image pipeline
+
+## 2.4 - 2016-09-09
+- Added fixed-to-top nav-bar
+- Added highest, lowest, first, last columns to test results
+- Improved test events UI
+- New "Question Map" feature in live testing UI
+- New floating Prev/Next buttons in live testing UI
+- Improved live testing welcoming worflow
+- Added "item bank sharing" purpose to user teams
+- Refactored multiple logins feature
+- Enhancements to item bank filters
+- New classroom alerts
+
+## 2.3 - 2016-06-29
+- Custom MTDA cell sizes
+- Added "pausing" to live testing interface
+- Added "impersonate user" option for system admins
+- Next-gen app filter with multi-selects and async student queries
+- Next-gen EdFabric Data Points
+
+## 2.2 - 2016-05-06
+- Optimized item bank search
+- Added Trial Description to Custom Assessment Widgets and Tables
+- Removed icons from menus and other UI elements
+- New design for create/edit test event
+- Enhancements to Live Testing UI
+- Added Depth of Knowledge to Test Blueprints
+
 ## 2.1 - 2016-03-25
 - Default Post on student logs
 - Student log Q/A
