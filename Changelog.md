@@ -1,6 +1,6 @@
 # Changelog
 
-Contains a summary of all new EDIS features, upgrades, and bug fixes by version.
+A breakdown of all new EDIS features, upgrades, and bug fixes by version.
 
 |Version|Release Date|
 |---|---|
