@@ -66,7 +66,7 @@ We are not responsible for the practices employed by websites, applications or s
 ## 7. STUDENT PRIVACY PLEDGE
 EDIS is a proud signatory of the [Student Privacy Pledge](https://studentprivacypledge.org/) as part of our commitment to
 - complying with the highest levels of student privacy and 
-- being an active member in the student privacy discussions around the edtech community.
+- being an active member in the student privacy discussions within the edtech community.
 
 <img src="http://www.edis.io/assets/images/privacy_pledge_logo.png" alt="Drawing" style="width: 100px;"/>
 
