@@ -63,7 +63,7 @@ Please email us at contact@edis.io if you we have inadvertently collected person
 ## 6. LINKS <a name="links"></a>
 We are not responsible for the practices employed by websites, applications or services linked to or from our Service.
 
-## 7. STUDENT PRIVACY PLEDGE
+## 7. STUDENT PRIVACY PLEDGE <a name="pledge"></a>
 EDIS is a proud signatory of the [Student Privacy Pledge](https://studentprivacypledge.org/) as part of our commitment to
 - complying with the highest levels of student privacy and 
 - being an active member in the student privacy discussions within the edtech community.
