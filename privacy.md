@@ -10,8 +10,9 @@ Below are the sections in this document:
 4.	[Your Choices](#choices)
 5.	[Children’s Privacy](#children)
 6.	[Links](#links)
-7.	[Contact Us](#contact)
-8.	[Changes](#changes)
+7. [Student Privacy Pledge](#pledge)
+8.	[Contact Us](#contact)
+9.	[Changes](#changes)
 
 ## 1. COLLECTION <a name="collection"></a>
 We collect the following types of information:
@@ -62,8 +63,15 @@ Please email us at contact@edis.io if you we have inadvertently collected person
 ## 6. LINKS <a name="links"></a>
 We are not responsible for the practices employed by websites, applications or services linked to or from our Service.
 
-## 7. CONTACT US <a name="contact"></a>
+## 7. STUDENT PRIVACY PLEDGE
+EDIS is a proud signatory of the [Student Privacy Pledge](https://studentprivacypledge.org/) as part of our commitment to
+- complying with the highest levels of student privacy and 
+- being an active member in the student privacy discussions around the edtech community.
+
+<img src="http://www.edis.io/assets/images/privacy_pledge_logo.png" alt="Drawing" style="width: 100px;"/>
+
+## 8. CONTACT US <a name="contact"></a>
 If you have any questions about this Privacy Policy or EDIS in general, please email us at contact@edis.io.
 
-## 8. CHANGES <a name="changes"></a>
+## 9. CHANGES <a name="changes"></a>
 We may make minor modifications to this Privacy Policy every now and then. Should we change this document in a substantial way, we will provide a minimum of 30 days for you to review the changes and decide to opt out from our Platform before the changes take effect.
