@@ -1,4 +1,4 @@
-# Student Bundle Sample
+# Initial Student Referral Packet
 
 [student-card]({studentId: {0}})
 
