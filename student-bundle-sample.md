@@ -42,6 +42,7 @@ Sections in this document
 [student-form-entries]({formId: 1, studentId: {0}, show: 'all'})
 
 ## Cumulative File Review
+Last cum file review stored in EDIS. For more info go to: charlotte.edis.io/forms
 [student-form-entries]({formId: 14, studentId: {0}, show: 'last'})
 
 ## Tier 1 Data Review
