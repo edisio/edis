@@ -4,6 +4,7 @@ A breakdown of all new EDIS features, upgrades, and bug fixes by version.
 
 |Version|Release Date|
 |---|---|
+|[2.12](#v2_12)|2017-09-02|
 |[2.11](#v2_11)|2017-05-12|
 |[2.10](#v2_10)|2017-04-25|
 |[2.9](#v2_9)|2017-02-28|
@@ -27,6 +28,24 @@ A breakdown of all new EDIS features, upgrades, and bug fixes by version.
 |[1.2](#v1_2)|2013-11-14|
 |[1.1](#v1_1)|2013-10-15|
 |[1.0](#v1_0)|2013-08-30|
+
+## 2.12 - 2017-09-02 <a name="v2_12"></a>
+- New Custom Reports landing page with search, filter, and cleaner UI.
+- New naming convention clue for interventions and intervention templates.
+- New intervention tab for evaluations/fidelity tracking.
+- New intervention tab for logging sessions with individual student attendance.
+- New intervention tab for logging intervention changes for groups or individual students.
+- More flexible time units to deal with intervention duration.
+- New "Time" and "User" form fields.
+- Improved "Behavior" tab in student profile with historical graphics.
+- Improved design for "Home" tab in student profile.
+- New Custom Assessments landing page with search, filter, and cleaner UI.
+- Improved Custom Assessments details with comparisons between filter, my students, and the universe.
+- Improved Custom Assessment trial drawers with comparisons and embedded student listings.
+- Added labels in Custom Assessment charts.
+- Improved login workflow for Test-taking UI.
+- Extended new sharing capabilities to new entities.
+- New Standards Analysis report for standards and domains with comparisons between filter, my students, and the universe.
 
 ## 2.11 - 2017-05-12 <a name="v2_11"></a>
 - Added dynamic student listings to test event analytics
