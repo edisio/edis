@@ -32,10 +32,10 @@ A breakdown of all new EDIS features, upgrades, and bug fixes by version.
 
 ## 2.12.1 - 2017-09-22 <a name="v2_12_1"></a>
 - Added "Save as" and "Copy" options to interventions, templates, and blueprints.
-- Added "Title" field to intervention evaluations
+- Added "Title" field to intervention evaluations.
 - Added “Sharing” to forms and form entries.
 - Upgraded Custom Assessment subjects to use EDISSubjects.
-- Sync of weekly STAR Data
+- Sync of weekly STAR Data.
 - Made reports created by “Anyone” the default in listings.
 - Bug fixes from 2.12.
 
