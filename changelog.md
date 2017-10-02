@@ -31,13 +31,13 @@ A breakdown of all new EDIS features, upgrades, and bug fixes by version.
 |[1.1](#v1_1)|2013-10-15|
 |[1.0](#v1_0)|2013-08-30|
 
-## 2.12.1 - 2017-09-22 <a name="v2_12_1"></a>
+## 2.12.2 - 2017-09-29 <a name="v2_12_2"></a>
 - Added ability to record comments in custom assessment scores and push them to student logs.
 - Removed legacy custom assessment reports.
 - Added search bar and filter popup to forms landing page.
 - Bug fixes and generic improvements from 2.12.1.
 
-## 2.12.2 - 2017-09-29 <a name="v2_12_2"></a>
+## 2.12.1 - 2017-09-22 <a name="v2_12_1"></a>
 - Added "Save as" and "Copy" options to interventions, templates, and blueprints.
 - Added "Title" field to intervention evaluations.
 - Added “Sharing” to forms and form entries.
